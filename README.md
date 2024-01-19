@@ -1,4 +1,4 @@
-# Manitoba Transit API  
+# Manitoba Transit API Documentation Mockup  
 
 The Transit API enables users to access comprehensive information about various transit options available throughout Manitoba. By providing details on modes of transportation, destinations, routes, and more, this API proves highly beneficial for several sectors, including the tourism industry, local transit applications, and map features.
 
